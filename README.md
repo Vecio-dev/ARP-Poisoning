@@ -64,4 +64,4 @@ The `restore.py` script restores the initial state of the ARP table of the targe
 
 
 # PoC
-![YouTube](./PoC.mp4)
+A proof of concept can be found in this [YouTube video](https://www.youtube.com/watch?v=3yNQvNuUWQ8), or in the file `PoC.mp4`.
